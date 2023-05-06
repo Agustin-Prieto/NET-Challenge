@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "v9arg5kZFQKUhE92fFtijiCH7VFFYdK0d4dJh2QKJ7zxCeQS1In/U7tcemrDL0BiYOjobqCE4plPOnw2mSMNpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SHIFTA-0120\\Documents\\Personal Projects\\Work-Challenge\\NetChallenge\\NetChallenge\\NetChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SHIFTA-0120\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SHIFTA-0120\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
